@@ -5,7 +5,7 @@
 Base URL:
 
 ```
-http://localhost:8000/api
+http://localhost:8000/
 ```
 
 This API allows frontend applications to:
